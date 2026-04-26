@@ -1,4 +1,4 @@
-# 🧠 Mind Balance  
+# Mind Balance  
 ### Lifestyle-Based Mental Health Insight Tool
 
 ## Project Overview
