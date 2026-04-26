@@ -1,6 +1,14 @@
 # Mind Balance  
 ### Lifestyle-Based Mental Health Insight Tool
 
+## Submission Version
+
+The final submission of this project is labelled as:
+
+**v1.6 Final Version**
+
+This represents the complete and markable snapshot of the system.
+
 ## Live Demo
 
 A fully functional version of the Mind Balance system is available online:
