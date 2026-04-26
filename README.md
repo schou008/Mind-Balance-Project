@@ -1,6 +1,20 @@
 # Mind Balance  
 ### Lifestyle-Based Mental Health Insight Tool
 
+## Live Demo
+
+A fully functional version of the Mind Balance system is available online:
+https://mind-balance-project-kdx7bs6wjyg7hthspr6xrq.streamlit.app/
+
+This live demo allows users to:
+- Input lifestyle data (sleep, screen time, exercise, social interaction)
+- Receive a real-time mental health risk prediction
+- View an overall wellbeing score (0–100)
+- Explore AI-driven explainability insights
+- Access personalised recommendations based on their inputs
+
+The deployed application demonstrates the core functionality of the system end-to-end and reflects the implementation described in this repository.
+
 ## Project Overview
 
 Mind Balance is an online intelligent decision-support system aimed at assessing mental health risks based on lifestyle patterns typically linked to student wellbeing. The system evaluates essential behavioural indicators such as sleep duration, screen time, physical activity and social interaction to produce a predicted risk classification along with an overall wellbeing score.
